@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+.header-background {
+    background-image: url('./img/bg_stars.gif');
+    z-index: 9000;
+}
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    
+    position: relative;
+    float: left;
+    width: 100%;
+    z-index: 100;
+}
+.navbar {
+    display: flex;
+    margin-right: -650px;
+}
+
+.logo {
+    margin-left: 0px;
+    margin-top: 70px;
+
+}
+
+.logo a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.navbar a {
+    display: block;
+    padding: 20px 20px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    background: #eeceab;
+}
+
+.energia {
+   width: 1300px;
+   margin-top: -690px;
+   margin-left: 20px;
+}
+.agua{
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.texto{
+    margin-left: -20px;
+}
+.text{
+    margin-left: 500px;
+}
+.demotica{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.demtext{
+     margin-left: 40px;
+    margin-top: -5px;
+}
+.residuos{
+    margin-top: -470px;
+    margin-left: -450px;
+}
+.residtext{
+    margin-top: -10px;
+    margin-left: -460px;
+}
+.visiontext{
+    margin-top: 250px;
+    margin-left: 35px;
+    font-size: 45px;
+}
+.mapatext{
+    margin-top: 30px;
+    margin-left: 35px;
+    font-size: 130px;
+}
