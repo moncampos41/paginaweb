@@ -29,6 +29,7 @@ body {
 .navbar {
     display: flex;
     margin-right: 10px;
+    background-color: black;
 }
 
 .logo {
