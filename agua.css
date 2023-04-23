@@ -57,13 +57,10 @@ body {
 
 .texto{
     text-align: center;
-    margin-top: 100px;
-    margin-left: 100px;
+    margin-top: 200px;
+    margin-left: 400px;
     float: left;
     font-family: bold;
     font-size: 30px;
 }
 
-.captador{
-    margin-left: 800px;
-}
